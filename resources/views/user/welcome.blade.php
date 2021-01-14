@@ -1,4 +1,5 @@
 @extends('user.layout.master')
+   @section('title','A2zassignmenthelp')
    @section('content')
      <div class="container counter_head_div">
     <div class="col-sm-4 counter_div">
