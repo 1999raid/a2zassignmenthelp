@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/','WelcomeController@Welcome');
+Route::get('/User Dashboard','UserController@UserView');
