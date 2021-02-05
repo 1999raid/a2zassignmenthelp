@@ -8,10 +8,10 @@ class ServiceController extends Controller
 {
     function ServiceView()
     {
-        return view('user.service');
+        return view('user.services');
     }
-  /*  function ServiceReq(Request $req)
+    function ServiceReq(Request $req)
     {
         print_r($req->all());
-    }*/
+    }
 }

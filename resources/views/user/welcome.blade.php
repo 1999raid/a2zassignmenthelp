@@ -1,21 +1,57 @@
 @extends('user.layout.master')
    @section('content')
+   <style>
+    .counter_head_div
+    {
+        padding-top:500px;
+    }
+    .counter_div
+    {
+        text-align:center;
+        padding:20px;
+    }
+    .counter_inner_div
+    {
+        padding-top:13%;
+        background-color:#F8F8FF;
+        height:200px;
+    }
+    .counter_content
+    {
+        font-size:20px;
+        color:#808080;
+    }
+    @media only screen and (max-width: 1155px)
+    {
+      .counter_head_div
+    {
+        padding-top:600px;
+    }
+    }
+    @media only screen and (max-width: 767px)
+    {
+      .counter_head_div
+    {
+        padding-top:150px!important;
+    }
+    }
+   </style>
      <div class="container counter_head_div">
     <div class="col-sm-4 counter_div">
     <div class="counter_inner_div">
-    <h1 class="counter" style="color:#FF7F50;">50,000+</h1>
+    <h1 style="color:#FF7F50;"><span class="counter">50,000</span><span>+</span></h1>
     <p class="counter_content">Assignments</p>
     </div>
     </div>
     <div class="col-sm-4 counter_div">
     <div class="counter_inner_div">
-    <h1 class="counter" style="color:#FF7F50;">1124+</h1>
+    <h1 style="color:#FF7F50;"><span class="counter">1124</span><span>+</span></h1>
     <p class="counter_content">PHD and Masters level experts</p>
     </div>
     </div>
     <div class="col-sm-4 counter_div">
     <div class="counter_inner_div">
-    <h1 class="counter" style="color:#FF7F50;">129+</h1>
+    <h1 style="color:#FF7F50;"><span class="counter">129</span><span>+</span></h1>
     <p class="counter_content">Subjects</p>
     </div>
     </div>
@@ -72,4 +108,15 @@
   </div>
   </div>
 </div>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.counterup.min.js"></script>
+<script>
+$(document).ready(function()
+{
+  $('.counter').counterUp({
+    delay: 30,
+    time: 3000
+});
+});
+</script>
   @endsection

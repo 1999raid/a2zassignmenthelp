@@ -12,12 +12,22 @@
 </head>
 <body>
     <div class="container" style="padding-top:20%;">
-    <form method="post" action="{{ route('thisname') }}">
+    <form method="post" action="{{ route('Services') }}">
     @csrf
     <input type="text" class="form-control" name="name"><br><br>
     <input type="text" class="form-control" name="email"><br><br>
-    <input type="submit" class="btn btn-primary">
+    <input type="submit" name="submit" value="submit" class="btn btn-primary">
+    </form>
+    <form id="r" method="post" action="{{ route('Services') }}">
+        <input type="text" class="form-control" name="name" value="service1" hidden>
     </form>
     </div>
+    <script>
+    $document.ready(function(){
+      
+      $("#r").submit();
+
+    });
+    </script>
 </body>
 </html>
