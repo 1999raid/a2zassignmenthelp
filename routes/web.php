@@ -15,3 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/','WelcomeController@Welcome');
 Route::get('/User Dashboard','UserController@UserView');
+Route::get('/Sevices','ServiceController@ServiceView');
+//Route::post('/{name}','ServiceController@ServiceReq')->name('thisname');
