@@ -380,13 +380,12 @@
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/college-assignment-help" title="College Assignment Help"><span itemprop="name">College Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/get-assignment-help" title="Get Assignment Help"><span itemprop="name">Get Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/do-my-assignment" title="Do My Assignment"><span itemprop="name">Do My Assignment</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/my-assignment-help" title="My Assignment Help"><span itemprop="name">My Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/all-assignment-help" title="All Assignment Help"><span itemprop="name">All Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/pay-for-assignment-help" title="pay-for-assignment-help"><span itemprop="name">Pay For Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/cheap-assignment-help" title="Cheap Assignment Help"><span itemprop="name">Cheap Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/instant-assignment-help" title="Instant Assignment Help"><span itemprop="name">Instant Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/powerpoint-presentation-online" title="powerpoint presentation online service"><span itemprop="name">Powerpoint Presentation Service</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/last-minute-assignment-help" title="Last Minute Assignment Help"><span itemprop="name">Last Minute Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/last-minute-assignment-help" title="Last Minute Assignment Help"><span itemprop="name">Student Assignment Help</span></a></li>
 </ul>
 </li>
 <li style="border-bottom:0px solid #000000;">
@@ -402,18 +401,17 @@
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/narrative-writing-help" title="narrative writing help"><span itemprop="name">Narrative Writing help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/assignment-writing-tips" title="Assignment Writing Tips"><span itemprop="name">Assignment Writing Tips</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/academic-assignment-help" title="Academic Assignment Help"><span itemprop="name">Academic Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/resume-writing-services" title="Resume Writing Services"><span itemprop="name">Resume Writing Services</span></a></li>
 
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/student-assignment-help" title="Student Assignment Help"><span itemprop="name">Student Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/university-assignment-help" title="University Assignment Help"><span itemprop="name">University Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/writing-assignment-for-university" title="Writing Assignment for University"><span itemprop="name">Writing Assignment for University</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/custom-assignment-writing-service" title="Custom Assignment Writing Service"><span itemprop="name">Custom Assignment Writing Service</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/world-no-1-assignment-help-company" title="world no 1 assignment help company"><span itemprop="name">World No 1 Assignment Company</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/writing-assignment-for-university" title="Writing Assignment for University"><span itemprop="name">a2z Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/custom-assignment-writing-service" title="Custom Assignment Writing Service"><span itemprop="name">Total assignment help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/world-no-1-assignment-help-company" title="world no 1 assignment help company"><span itemprop="name">World No 1 Assignment Help</span></a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="nav-item">
+<li class="nav-item management">
 <a class="nav-link nav-top-cus-sub" href="https://www.totalassignmenthelp.com/management-assignment-help">Management <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1 first-chiild" style="min-width:610px;list-style:none">
 <li style="float:left;border-bottom:0px solid #000000;">
@@ -455,13 +453,7 @@
 </li>
 </ul>
 </li>
-<li class="nav-item nursing">
-<a class="nav-link" href="https://www.totalassignmenthelp.com/nursing-assignment-help">Nursing <i class="fa fa-caret-right ml-4"></i></a>
-<ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/nursing-assignment-help" title="Nursing Assignment Help"><span itemprop="name">Nursing Assignment Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/clinical-reasoning-cycle" title="Clinical Reasoning Cycle"><span itemprop="name">Clinical Reasoning Cycle</span></a></li>
-</ul>
-</li>
+
 <li class="nav-item finance">
 <a class="nav-link" href="https://www.totalassignmenthelp.com/finance-assignment-help">Finance <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
@@ -471,46 +463,45 @@
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/finance-assignment-help" title="Finance Assignment Help"><span itemprop="name">Finance Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/forex-assignment-help" title="Forex Assignment Help"><span itemprop="name">Forex Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/behavioral-finance-assignment-help" title="Behavioral Finance Assignment Help"><span itemprop="name">Behavioral Finance Assignment Help</span></a></li>
-
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/personal-finance-assignment-help" title="Personal Finance Assignment Help"><span itemprop="name">Personal Finance Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/capital-budgeting-assignment-help" title="Capital Budgeting Assignment Help"><span itemprop="name">Capital Budgeting Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/corporate-finance-planning-assignment-help" title="Corporate Finance Planning Assignment Help"><span itemprop="name">Corporate Finance Planning Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/financial-statement-analysis-assignment-help" title="Financial Statement Analysis Assignment Help"><span itemprop="name">Financial Statement Analysis Assignment Help</span></a></li>
 </ul>
 </li>
-<li class="nav-item commerce">
-<a class="nav-link" href="#">Commerce <i class="fa fa-caret-right ml-4"></i></a>
+<li class="nav-item nursing">
+<a class="nav-link" href="https://www.totalassignmenthelp.com/nursing-assignment-help">Nursing/Medicine <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/accounting-assignment-help" title="Accounting Assignment Help"><span itemprop="name">Accounting Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/solve-my-accounting-paper" title="Solve My Accounting Paper"><span itemprop="name">Solve My Accounting Paper</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/taxation-assignment-help" title="Taxation Assignment Help"><span itemprop="name">Taxation Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/cost-accounting-assignment-help" title="Cost Accounting Assignment Help"><span itemprop="name">Cost Accounting Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-accounting-assignment-help" title="Managerial Accounting Assignment Help"><span itemprop="name">Managerial Accounting Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-accounting-assignment-help" title="Business Accounting Assignment Help"><span itemprop="name">Business Accounting Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/activity-based-accounting-assignment-help" title="Activity-Based Accounting Assignment Help"><span itemprop="name">Activity-Based Accounting Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/nursing-assignment-help" title="Nursing Assignment Help"><span itemprop="name">Nursing Assignment Help </span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/clinical-reasoning-cycle" title="Clinical Reasoning Cycle"><span itemprop="name">Clinical Reasoning Cycle</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/clinical-reasoning-cycle" title="Clinical Reasoning Cycle"><span itemprop="name">Nursing Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/clinical-reasoning-cycle" title="Clinical Reasoning Cycle"><span itemprop="name">Pharmacology Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/clinical-reasoning-cycle" title="Clinical Reasoning Cycle"><span itemprop="name">Clinical Reasoning Cycle</span></a></li>
 </ul>
 </li>
 <li class="nav-item economics">
 <a class="nav-link" href="https://www.totalassignmenthelp.com/economics-assignment-help">Economics <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">Managerial Economics Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/economics-assignment-help" title="Economics Assignment Help"><span itemprop="name">Economics Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/microeconomics-assignment-help" title="Microeconomics Assignment Help"><span itemprop="name">Microeconomics Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">Managerial Economics Assignment Help</span></a></li>
 </ul>
 </li>
-<li class="nav-item computer_science">
-<a class="nav-link" href="#">Computer Science/IT <i class="fa fa-caret-right ml-4"></i></a>
+<li class="nav-item Marketing">
+<a class="nav-link" href="https://www.totalassignmenthelp.com/nursing-assignment-help">Marketing <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/it-management-assignment-help" title="IT Management Assignment Help"><span itemprop="name">IT Management Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-intelligence-assignment-help" title="Business Intelligence Assignment Help"><span itemprop="name">Business Intelligence Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/information-technology-assignment-help" title="Information Technology Assignment Help"><span itemprop="name">Information Technology Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/database-assignment-help" title="Database Assignment Help"><span itemprop="name">Database Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/data-mining-assignment-help" title="Data Mining Assignment Help"><span itemprop="name">Data Mining Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/data-structure-assignment-help" title="Data Structure Assignment Help"><span itemprop="name">Data Structure Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/computer-network-assignment-help" title="Computer Network Assignment Help"><span itemprop="name">Computer Network Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/operating-system-assignment-help" title="Operating System Assignment Help"><span itemprop="name">Operating System Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/data-flow-diagram-assignment-help" title="Data Flow Diagram Assignment Help"><span itemprop="name">Data Flow Diagram Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/online-uml-diagram-assignment-help" title="UML Diagram Assignment Help"><span itemprop="name">UML Diagram Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">MARKET ANALYSIS ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">MARKET SEGMENTATION ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">INTEGRATED MARKETING COMMUNICATION ASSIGNMENT </span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">SALES PROMOTION ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">MARKETING PLAN ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">MARKETING MANAGEMENT ASSIGNMENT HELP</span></a></li>
+</ul>
+</li>
+<li class="nav-item Statistics">
+<a class="nav-link" href="https://www.totalassignmenthelp.com/nursing-assignment-help">Statistics<i class="fa fa-caret-right ml-4"></i></a>
+<ul class="nav-submenu1">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-economics-assignment-help" title="Managerial Economics Assignment Help"><span itemprop="name">Statistics Assignment help</span></a></li>
 </ul>
 </li>
 <li class="nav-item law">
@@ -536,30 +527,6 @@
 </ul>
 </li>
 
-<li class="nav-item science">
-<a class="nav-link" href="https://www.totalassignmenthelp.com/science-assignment-help">Science <i class="fa fa-caret-right ml-4"></i></a>
-<ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/science-assignment-help" title="Science Assignment Help"><span itemprop="name">Science Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/physics-assignment-help" title="Physics Assignment Help"><span itemprop="name">Physics Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/chemistry-assignment-help" title="Chemistry Assignment Help"><span itemprop="name">Chemistry Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/sports-science-assignment-help" title="Sports Science Assignment Help"><span itemprop="name">Sports Science Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/chemical-engineering-assignment-help" title="Chemical Engineering Assignment Help"><span itemprop="name">Chemical Engineering Assignment Help</span></a></li>
-
-
-</ul>
-</li>
-<li class="nav-item biology">
-<a class="nav-link" href="https://www.totalassignmenthelp.com/biology-assignment-help">Biology <i class="fa fa-caret-right ml-4"></i></a>
-<ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/biology-assignment-help" title="Biology Assignment Help"><span itemprop="name">Biology Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/bioinformatics-assignment-help" title="Bioinformatics Assignment Help"><span itemprop="name">Bioinformatics Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/biochemistry-assignment-help" title="Biochemistry Assignment Help"><span itemprop="name">Biochemistry Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/biotechnology-assignment-help" title="Biotechnology Assignment Help"><span itemprop="name">Biotechnology Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/anthropology-assignment-help" title="Anthropology Assignment Help"><span itemprop="name">Anthropology Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/paleontology-assignment-help" title="Paleontology Assignment Help"><span itemprop="name">Paleontology Assignment Help</span></a></li>
-
-</ul>
-</li>
 <li class="nav-item engineering">
 <a class="nav-link" href="https://www.totalassignmenthelp.com/engineering-assignment-help">Engineering <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
@@ -568,10 +535,9 @@
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/fluid-mechanics-assignment-help" title="Fluid Mechanics Assignment Help"><span itemprop="name">Fluid Mechanics Assignment Help </span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/civil-engineering-assignment-help" title="Civil Engineering Assignment Help"><span itemprop="name">Civil Engineering Assignment Help </span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/electrical-engineering-assignment-help" title="Electrical Engineering Assignment Help"><span itemprop="name">Electrical Engineering Assignment Help </span></a></li>
-
-
 </ul>
 </li>
+
 <li class="nav-item huminities">
 <a class="nav-link" href="https://www.totalassignmenthelp.com/humanities-assignment-help">Humanities <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
@@ -589,71 +555,47 @@
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/mass-communication-assignment-help" title="Mass Communication Assignment Help"><span itemprop="name">Mass Communication Assignment Help</span></a></li>
 </ul>
 </li>
-<li class="nav-item auditing">
-<a class="nav-link" href="https://www.totalassignmenthelp.com/auditing-assignment-help">Auditing <i class="fa fa-caret-right ml-4"></i></a>
-<ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/auditing-assignment-help" title="Auditing Assignment Help"><span itemprop="name">Auditing Assignment Help</span></a></li>
-</ul>
-</li>
+
 <li class="nav-item business_report">
 <a class="nav-link" href="https://www.totalassignmenthelp.com/business-report-structure">Business Report <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-report-structure" title="Business Report structure"><span itemprop="name">Report Writing </span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-report-structure" title="Business Report structure"><span itemprop="name">Business Report Writing </span></a></li>
 </ul>
 </li>
-<li class="nav-item mathematics">
-<a class="nav-link" href="https://www.totalassignmenthelp.com/mathematics-assignment-help">Mathematics <i class="fa fa-caret-right ml-4"></i></a>
+
+<li class="nav-item commerce">
+<a class="nav-link" href="#">Commerce <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/mathematics-assignment-help" title="Mathematics Assignment Help"><span itemprop="name">Mathematics Assignment Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/geometry-assignment-help" title="Geometry Assignment Help"><span itemprop="name">Geometry Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/arithmetic-assignment-help" title="Arithmetic Assignment Help"><span itemprop="name">Arithmetic Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/trigonometry-assignment-help" title="Trigonometry Assignment Help"><span itemprop="name">Trigonometry Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/activity-based-accounting-assignment-help" title="Activity-Based Accounting Assignment Help"><span itemprop="name">Financial Accounting Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/accounting-assignment-help" title="Accounting Assignment Help"><span itemprop="name">Economics Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/solve-my-accounting-paper" title="Solve My Accounting Paper"><span itemprop="name">Accounting Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/taxation-assignment-help" title="Taxation Assignment Help"><span itemprop="name">Business Accounting Assignment Help Taxation Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/cost-accounting-assignment-help" title="Cost Accounting Assignment Help"><span itemprop="name">Cost Accounting Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/managerial-accounting-assignment-help" title="Managerial Accounting Assignment Help"><span itemprop="name">Managerial Accounting Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-accounting-assignment-help" title="Business Accounting Assignment Help"><span itemprop="name">Activity-Based Accounting Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/activity-based-accounting-assignment-help" title="Activity-Based Accounting Assignment Help"><span itemprop="name">Solve My Accounting Paper</span></a></li>
 </ul>
 </li>
-<li class="nav-item architecture">
-<a class="nav-link" href="https://www.totalassignmenthelp.com/arts-architecture-assignment-help">Architecture <i class="fa fa-caret-right ml-4"></i></a>
+<li class="nav-item computer_science">
+<a class="nav-link" href="#">Computer network/IT <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu1">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/arts-architecture-assignment-help" title="Arts Architecture Assignment Help"><span itemprop="name">Arts Architecture Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/arts-assignment-help" title="Arts Assignment Help"><span itemprop="name">Arts Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/it-management-assignment-help" title="IT Management Assignment Help"><span itemprop="name">IT Management Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-intelligence-assignment-help" title="Business Intelligence Assignment Help"><span itemprop="name">Business Intelligence Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/information-technology-assignment-help" title="Information Technology Assignment Help"><span itemprop="name">Information Technology Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/database-assignment-help" title="Database Assignment Help"><span itemprop="name">Database Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/data-mining-assignment-help" title="Data Mining Assignment Help"><span itemprop="name">Data Mining Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/data-structure-assignment-help" title="Data Structure Assignment Help"><span itemprop="name">Data Structure Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/computer-network-assignment-help" title="Computer Network Assignment Help"><span itemprop="name">Computer Network Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/operating-system-assignment-help" title="Operating System Assignment Help"><span itemprop="name">Operating System Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/data-flow-diagram-assignment-help" title="Data Flow Diagram Assignment Help"><span itemprop="name">Data Flow Diagram Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/online-uml-diagram-assignment-help" title="UML Diagram Assignment Help"><span itemprop="name">UML Diagram Assignment Help</span></a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="#">Essay Writing <i class="fa fa-caret-right ml-4"></i></a>
-<ul class="nav-submenu">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-help" title="Essay Help"><span itemprop="name">Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/legitimate-essay-writing-services" title="Legit Essay"><span itemprop="name">Legit Essay</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-writing-services" title="Essay Writing Services"><span itemprop="name">Essay Writing Services</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-outline-help" title="Essay Outline Help"><span itemprop="name">Essay Outline Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/descriptive-essay-help" title="Descriptive Essay Help"><span itemprop="name">Descriptive Essay Help</span></a></li>
-
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/history-essay-help" title="History Essay Help"><span itemprop="name">History Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/research-essay-help" title="Research Essay Help"><span itemprop="name">Research Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/english-essay-writing" title="English Essay Writing"><span itemprop="name">English Essay Writing</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/literature-essay-help" title="Literature Essay Help"><span itemprop="name">Literature Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-writer-for-australia" title="Essay Writer for Australia"><span itemprop="name">Essay Writer for Australia</span></a></li>
-
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/online-custom-essay-help" title="Online Custom Essay Help"><span itemprop="name">Online Custom Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-writing-help" title="Essay Writing Help"><span itemprop="name">Essay Writing Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/custom-essay-help" title="Custom Essay Help"><span itemprop="name">Custom Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-help-online" title="Essay Help Online"><span itemprop="name">Essay Help Online</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/writing-essay-papers" title="Writing Essay Papers"><span itemprop="name">Writing Essay Papers</span></a></li>
-
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-homework-help" title="Essay Homework Help"><span itemprop="name">Essay Homework Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/professional-essay-writer" title="Professional Essay Writer"><span itemprop="name">Professional Essay Writer</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/illustration-essay-help" title="Illustration Essay Help"><span itemprop="name">Illustration Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/scholarship-essay-help" title="Scholarship Essay Help"><span itemprop="name">Scholarship Essay Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/need-help-writing-essay" title="Need Help Writing Essay"><span itemprop="name">Need Help Writing Essay</span></a></li>
-
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/plagiarism-free-essays" title="Plagiarism Free Essays"><span itemprop="name">Plagiarism Free Essays</span></a></li>
-
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-essay" title="Write My Essay"><span itemprop="name">Write My Essay</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Response Essay Writing Help</span></a></li>
-</ul>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="#">Dissertation <i class="fa fa-caret-right ml-4"></i></a>
+<a class="nav-link" href="#">Dissertation writing<i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu">
 
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/dissertation-assignment-help" title="Dissertation Writing Help"><span itemprop="name">Dissertation Writing Help </span></a></li>
@@ -677,52 +619,114 @@
 
 </ul>
 </li>
+
+<li class="nav-item">
+<a class="nav-link" href="#">Essay Writing <i class="fa fa-caret-right ml-4"></i></a>
+<ul class="nav-submenu">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-help" title="Essay Help"><span itemprop="name">Do My Essay Online</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/legitimate-essay-writing-services" title="Legit Essay"><span itemprop="name">Essay Outline Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-writing-services" title="Essay Writing Services"><span itemprop="name">History Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-outline-help" title="Essay Outline Help"><span itemprop="name">Research Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/descriptive-essay-help" title="Descriptive Essay Help"><span itemprop="name">Assignment Writer Sydney</span></a></li>
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/history-essay-help" title="History Essay Help"><span itemprop="name">Assignment Writing Brisbane</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/research-essay-help" title="Research Essay Help"><span itemprop="name">Assignment Writer Perth</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/english-essay-writing" title="English Essay Writing"><span itemprop="name">Essay Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/literature-essay-help" title="Literature Essay Help"><span itemprop="name">Cheap Essay Writing Services</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-writer-for-australia" title="Essay Writer for Australia"><span itemprop="name">Cheap Essay Writer</span></a></li>
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/online-custom-essay-help" title="Online Custom Essay Help"><span itemprop="name">Do My Essay</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-writing-help" title="Essay Writing Help"><span itemprop="name">Admission Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/custom-essay-help" title="Custom Essay Help"><span itemprop="name">Best Essay Writing Service</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-help-online" title="Essay Help Online"><span itemprop="name">Urgent Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/writing-essay-papers" title="Writing Essay Papers"><span itemprop="name">Fast Essay Writing Service</span></a></li>
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/essay-homework-help" title="Essay Homework Help"><span itemprop="name">College Application Essay</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/professional-essay-writer" title="Professional Essay Writer"><span itemprop="name">College Essay Writing Service</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/illustration-essay-help" title="Illustration Essay Help"><span itemprop="name">Essay Topics</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/scholarship-essay-help" title="Scholarship Essay Help"><span itemprop="name">Top Essay Writing Companies</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/need-help-writing-essay" title="Need Help Writing Essay"><span itemprop="name">Essay Conclusion</span></a></li>
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/plagiarism-free-essays" title="Plagiarism Free Essays"><span itemprop="name">Essay Types</span></a></li>
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-essay" title="Write My Essay"><span itemprop="name">Scholarship Essay Sample</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Write an Essay Online</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Evaluative Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Response Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Illustration Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Writing Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Plagiarism Free Essays</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Custom Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Help Online</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Professional Essay Writer</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Writers Online</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Write My Essay</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Writing Essay Papers</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Scholarship Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Need Help Writing Essay</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Online Custom Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Descriptive Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Writer for Australia</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Write My Essay</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">MBA Essay Writing Service</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">MBA Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Business Essay H</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Law Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">History Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">English Essay Writing</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Literature Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Nursing Assignment help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Philosophy Essay Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Structure</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name">Essay Rewriter</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name"></span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/response-essay-writing-help" title="Response Essay Writing Help"><span itemprop="name"></span></a></li>
+</ul>
+</li>
+
 <li class="nav-item">
 <a class="nav-link" href="https://www.totalassignmenthelp.com/programming-assignment-help">Programming <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/programming-assignment-help" title="Programming Assignment Help"><span itemprop="name">Programming Assignment Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/java-programming-assignment-help" title="Java Assignment Help"><span itemprop="name">Java Programming Assignment Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/c-programming-assignment-help" title="C Programming Assignment Help"><span itemprop="name">C Programming Assignment Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/php-assignment-help" title="PHP Assignment Help"><span itemprop="name">PHP Assignment Help </span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/programming-assignment-help" title="Programming Assignment Help"><span itemprop="name">Programming Language Assignment Help </span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/java-programming-assignment-help" title="Java Assignment Help"><span itemprop="name">Programming Assignment Experts</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/c-programming-assignment-help" title="C Programming Assignment Help"><span itemprop="name">Data Mining Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/php-assignment-help" title="PHP Assignment Help"><span itemprop="name">Data Flow Diagram Assignment Help</span></a></li>
 
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/python-assignment-help" title="Python Assignment Help"><span itemprop="name">Python Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/perl-assignment-help" title="Perl Assignment Help"><span itemprop="name">Perl Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/sas-assignment-help" title="SAS Assignment Help"><span itemprop="name">SAS Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/python-assignment-help" title="Python Assignment Help"><span itemprop="name">Matlab Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/perl-assignment-help" title="Perl Assignment Help"><span itemprop="name">C Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/sas-assignment-help" title="SAS Assignment Help"><span itemprop="name">Perl Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/web-designing-assignment-help" title="Web Designing Assignment Help"><span itemprop="name">UML Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/web-designing-assignment-help" title="Web Designing Assignment Help"><span itemprop="name">SAS Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/web-designing-assignment-help" title="Web Designing Assignment Help"><span itemprop="name">Data Structure Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/web-designing-assignment-help" title="Web Designing Assignment Help"><span itemprop="name">Database Management Assignment Help</span></a></li>
 <li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/web-designing-assignment-help" title="Web Designing Assignment Help"><span itemprop="name">Web Designing Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/web-designing-assignment-help" title="Web Designing Assignment Help"><span itemprop="name">MYOB Assignment Help</span></a></li>
 
 </ul>
 </li>
-<li class="nav-item"><a class="nav-link" href="https://www.totalassignmenthelp.com/case-study-assignment-help">Case Study <i class="fa fa-caret-right ml-4"></i></a><ul class="nav-submenu">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/case-study-assignment-help" title="Case Study Assignment Help"><span itemprop="name">Case Study Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/history-case-study" title="History Case Study"><span itemprop="name">History Case Study</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/case-study-writing-services" title="Case Study Writing Services"><span itemprop="name">Case Study Writing Services</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-case-study-for-me" title="Write My Case Study For Me"><span itemprop="name">Write My Case Study For Me</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-law-case-study" title="Business Law Case Study"><span itemprop="name">Business Law Case Study</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/civil-law-case-study-help" title="Civil Law Case Study Help"><span itemprop="name">Civil Law Case Study Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/marketing-case-study-help" title="Marketing Case Study Help"><span itemprop="name">Marketing Case Study Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/nursing-case-study-help" title="Nursing Case Study Help"><span itemprop="name">Nursing Case Study Help</span></a></li>
 
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">ZARA Case Study</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/amazon-case-study" title="Amazon Case Study"><span itemprop="name">Amazon Case Study</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Apple Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.totalassignmenthelp.com/coursework-assignment-help">Home work  <i class="fa fa-caret-right ml-4"></i></a><ul class="nav-submenu">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Coursework Assignment Help"><span itemprop="name">Write My Homework for me</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Finance Coursework Help"><span itemprop="name">Pay Someone to do my Homework</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Coursework Writing Services"><span itemprop="name">Homework Writing Service</span></a></li>
 
-
-
-</ul></li>
-
-
-
-<li class="nav-item"><a class="nav-link" href="https://www.totalassignmenthelp.com/coursework-assignment-help">Coursework  <i class="fa fa-caret-right ml-4"></i></a><ul class="nav-submenu">
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/coursework-assignment-help" title="Coursework Assignment Help"><span itemprop="name">Coursework Assignment Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/finance-coursework-help" title="Finance Coursework Help"><span itemprop="name">Finance Coursework Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/coursework-writing-services" title="Coursework Writing Services"><span itemprop="name">Coursework Writing Services </span></a></li>
-
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/marketing-coursework-help" title="Marketing Coursework Help"><span itemprop="name">Marketing Coursework Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/maths-coursework-help" title="Maths Coursework Help"><span itemprop="name">Maths Coursework Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/chemistry-coursework-help" title="Chemistry Coursework Help"><span itemprop="name">Chemistry Coursework Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/english-coursework-help" title="English Coursework Help"><span itemprop="name">English Coursework Help </span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/do-my-coursework" title="Do My Coursework"><span itemprop="name">Do My Coursework</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/custom-coursework-writing-services" title="Custom Coursework Writing Service"><span itemprop="name">Custom Coursework Writing Service</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Marketing Coursework Help"><span itemprop="name">Homework Writer</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Maths Coursework Help"><span itemprop="name">Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Chemistry Coursework Help"><span itemprop="name">Do My Homework</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="English Coursework Help"><span itemprop="name">Homework Help Online</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Do My Coursework"><span itemprop="name">Buy Homework Online</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Essay Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Cheap Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Homework Help Services</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">PHP Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Statistics Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Math Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Do My Math Homework</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Algebra Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">History Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">Economics Homework Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="/homework" title="Custom Coursework Writing Service"><span itemprop="name">English Homework Help</span></a></li>
 
 
 </ul></li>
@@ -730,10 +734,61 @@
 <li class="nav-item"><a class="nav-link" href="https://www.totalassignmenthelp.com/thesis-writing-help">Thesis Writing <i class="fa fa-caret-right ml-4"></i></a>
 <ul class="nav-submenu">
 
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/thesis-writing-help" title="Thesis Writing Help"><span itemprop="name">Thesis Writing Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/thesis-help-online" title="Thesis Help Online"><span itemprop="name">Thesis Help Online</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-thesis-for-me" title="Write my thesis for me"><span itemprop="name">Write my thesis for me</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/thesis-writing-help" title="Thesis Writing Help"><span itemprop="name">Thesis Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/thesis-help-online" title="Thesis Help Online"><span itemprop="name">How to Write a Thesis</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-thesis-for-me" title="Write my thesis for me"><span itemprop="name">Thesis Topics</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/thesis-writing-help" title="Thesis Writing Help"><span itemprop="name">Write My Thesis for me</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/thesis-help-online" title="Thesis Help Online"><span itemprop="name">Thesis Paper</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-thesis-for-me" title="Write my thesis for me"><span itemprop="name">Thesis Help Online</span></a></li>
+</ul></li>
 
+<li class="nav-item"><a class="nav-link" href="https://www.totalassignmenthelp.com/case-study-assignment-help">Case Study <i class="fa fa-caret-right ml-4"></i></a><ul class="nav-submenu">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/case-study-assignment-help" title="Case Study Assignment Help"><span itemprop="name">Case Study Writing Services</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/history-case-study" title="History Case Study"><span itemprop="name">Write My Case Study For Me</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/case-study-writing-services" title="Case Study Writing Services"><span itemprop="name">History Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-case-study-for-me" title="Write My Case Study For Me"><span itemprop="name"></span>Case Study Assignment Sample</a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/civil-law-case-study-help" title="Civil Law Case Study Help"><span itemprop="name">Case Study Assignment Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/business-law-case-study" title="Business Law Case Study"><span itemprop="name">Case Study Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/civil-law-case-study-help" title="Civil Law Case Study Help"><span itemprop="name">Amway Case Study Swot Analysis</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/civil-law-case-study-help" title="Civil Law Case Study Help"><span itemprop="name">Contract Law Case Studies Sample</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/marketing-case-study-help" title="Marketing Case Study Help"><span itemprop="name">Apple Swot & Pestle Analysis</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/nursing-case-study-help" title="Nursing Case Study Help"><span itemprop="name">4 Step Process Law Case Study</span></a></li>
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">Coca Cola Swot Analysis Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/amazon-case-study" title="Amazon Case Study"><span itemprop="name">Mcdonalds Pestle Analysis Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Zara Case Study Swot Analysis Solution</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Company Law Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Case Study on Vodafone</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Case Study on Samsung</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Nike Swot Pest Analysis Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Ikea Case Study</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/apple-case-study-swot-and-pestle-analysis" title="Apple Case Study"><span itemprop="name">Buy Assignment Case Study</span></a></li>
+
+
+
+</ul></li>
+
+
+<li class="nav-item"><a class="nav-link" href="#">Research <i class="fa fa-caret-right ml-4"></i></a>
+<ul class="nav-submenu">
+
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Bibliography Maker</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Research Writing Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Research Paper Writing Service</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Research Paper Topics</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Ghost Writers</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Research Paper Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Custom Writing Service</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">College Paper Writing</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Buy College Papers</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">How to Write a College Paper</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Term Paper</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Writing Services</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Help with Report</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Custom Paper Writing Services</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Paper Writers</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Research Proposal Help</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Story Writing</span></a></li>
 </ul></li>
 
 
@@ -745,12 +800,21 @@
 
 </ul></li>
 
-<li class="nav-item"><a class="nav-link" href="#">Research <i class="fa fa-caret-right ml-4"></i></a><ul class="nav-submenu">
+<li class="nav-item"><a class="nav-link" href="#">Bio technology<i class="fa fa-caret-right ml-4"></i></a>
+<ul class="nav-submenu">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">BIOTECHNOLOGY ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">BIOINFORMATICS ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">BIOCHEMISTRY ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">BIOLOGY ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">ANTHROPOLOGY ASSIGNMENT HELP</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">PALEONTOLOGY ASSIGNMENT HELP</span></a></li>
+</ul></li>
 
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/research-paper-help" title="Research Paper Help"><span itemprop="name">Research Paper Help</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/research-paper-writing-service" title="Research Paper Writing Service"><span itemprop="name">Research Paper Writing Service</span></a></li>
-<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/write-my-paper-for-me" title="Write My Paper For Me"><span itemprop="name">Write My Paper For Me</span></a></li>
-
+<li class="nav-item"><a class="nav-link" href="https://www.totalassignmenthelp.com/coursework-assignment-help">Proof reading<i class="fa fa-caret-right ml-4"></i></a>
+<ul class="nav-submenu">
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">Proof Reading Services</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">Proof Reading Services Australia</span></a></li>
+<li class="nav-item"><a class="nav-link" itemprop="url" href="https://www.totalassignmenthelp.com/free-sample/zara-case-study" title="ZARA Case Study"><span itemprop="name">Proof Reading Services UK</span></a></li>
 </ul></li>
 </ul>
     </li>
@@ -758,7 +822,7 @@
     <li><a href="#" style="text-decoration:none;">About us</a></li>
     <li><a href="#" style="text-decoration:none;">Contact us</a></li>
     <li><a href="#" style="text-decoration:none;">Ordering FAQ</a></li>
-    <li style="float:right;"><a class="request_call_back" href="#" style="text-decoration:none;color:#fcfcfc;"><b>Request Callback</b></a></li>
+    <li style="float:right;"><a class="request_call_back" href="#" style="text-decoration:none;color:#fcfcfc;"><b>Request Callback </b></a></li>
     </ul>
     </div>
     <div class="container-fluid mobile_nav" style="background-color:#fcfcfc!important;z-index:1;height:50px;width:100%;top:0%;">

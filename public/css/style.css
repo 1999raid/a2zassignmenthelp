@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Poppins,"Helvetica Neue",Arial,sans-serif;;
+}
+
+.m{
+    background-image: url(imgs/img.jpg);
+    color: #ffffff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0,0,0, 0.6);
+    
+    overflow: hidden;
+    position: relative;
+   
+    
+}
+.m2{
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+    
+
+}
+.m3{
+    opacity: 0.6;
+    color:gray;
+    font-size: 1rem;
+    padding: 10px;
+    
+}
+.section{
+    padding: 50px;
+    
+}
+.m7{
+    font-size: 15px;
+    font-family: 'q_serif',Georgia,Times,'Times New Roman','Hiragino Kaku Gothic Pro','Meiryo',serif;
+    line-height: 1.8;
+}
+.m8{
+    font-size:25px;  
+    font-family: 'q_serif',Georgia,Times,'Times New Roman','Hiragino Kaku Gothic Pro','Meiryo',serif; 
+    text-align:left;
+}
+.m9{
+    background-color: #f9fafb;
+    font-family: Poppins,sans-serif;
+    padding: 20px;
+    margin-bottom: 20px;
+
+
+}
+h4{
+    font-weight: 500;
+    color: #37404d;
+    letter-spacing: 0;
+    line-height: 1.4;
+}
+.m10{
+    margin-top: 10px;
+}
+.m11{
+    line-height: 1.8;
+    font-size: 15px;
+    font-family: 'q_serif',Georgia,Times,'Times New Roman','Hiragino Kaku Gothic Pro','Meiryo',serif;
+}
+ul .m11{
+    list-style: none;
+}
+.m12{
+    font-size:15px; 
+    font-family: 'q_serif',Georgia,Times,'Times New Roman','Hiragino Kaku Gothic Pro','Meiryo',serif;
+    line-height: 1.8;
+    margin-left: 30px;
+}
+.m12 a{
+    text-decoration: none;
+}
