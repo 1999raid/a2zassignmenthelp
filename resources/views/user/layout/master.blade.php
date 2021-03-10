@@ -728,7 +728,7 @@ if ($(window).width() > 992)
       }   
   });
 } 
-})
+});
 </script>
 </body>
 </html>

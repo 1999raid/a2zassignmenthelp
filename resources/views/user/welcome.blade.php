@@ -115,7 +115,7 @@
 $(document).ready(function()
 {
   $('.counter').counterUp({
-    delay: 30,
+    delay: 60,
     time: 3000
 });
 });
