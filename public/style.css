@@ -1,0 +1,24 @@
+body{
+     color: #535353;
+    font-weight: 400;
+    font-size: .9375rem;
+    line-height: 2.2;
+ 
+}
+h5,span{
+     color: #696969;
+	 font-size:20px;
+}
+h2{
+     color: #686161;
+	 font-size:35px;
+
+}
+.footer_class
+{
+	margin-top:500px;
+}
+.ft
+{
+	font-size:16px;
+}

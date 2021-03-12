@@ -647,11 +647,11 @@ span.psw {
   <h4 class="footer_heading">Let Us Help You</h4>
   <a href="Faq"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Faqs</a><br>
   <a><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Resources</a><br>
-  <a><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Premium</a><br>
-  <a><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Term Of Use</a><br>
-  <a><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Fair Use Policy</a><br>
-  <a><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Privacy Policy</a><br>
-  <a><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Revision & Refund Policy</a><br><br>
+  <a href="Premium"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Premium</a><br>
+  <a href="Term_of_use"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Term Of Use</a><br>
+  <a href="Fair_use_of_policy"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Fair Use Policy</a><br>
+  <a href="Privacy_policy"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Privacy Policy</a><br>
+  <a href="Revision_and_refund"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Revision & Refund Policy</a><br><br>
   </div>
   <div class="col-sm-3 footer">
   <h4 class="footer_heading">Get to Know US</h4>
